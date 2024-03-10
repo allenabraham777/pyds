@@ -1,0 +1,42 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Compiled bytecode
+*.pyc
+__pycache__/
+
+# Temporary files
+*.pyo
+*.pyc
+*.pyd
+
+# Package files
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Miscellaneous
+*.DS_Store
+
